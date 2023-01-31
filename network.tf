@@ -3,5 +3,5 @@ module "network" {
   version = "3.5.0"
 
   resource_group_name = "carlosdoki"
-  use_for_each = 1
+
 }
